@@ -8,19 +8,19 @@ Also the game may not open sometimes because of a thread exception and the FPS m
 
 The controls for my game is:
 Player1: 
-Q -> Counter Clock wise rotation
-E -> Clock wise rotation
-W -> North
-S -> South
-A -> West
-D -> East
-Space -> Shoot
+Q -> Counter Clock wise rotation,
+E -> Clock wise rotation,
+W -> North,
+S -> South,
+A -> West,
+D -> East,
+Space -> Shoot,
 
 Player2:
-"|" (under backspace) -> Clock wise rotation
-Shift -> Counter clock wise rotation
-Enter -> Shoot
-Up key -> north
-Down key -> south
-Left key -> west
+"|" (under backspace) -> Clock wise rotation,
+Shift -> Counter clock wise rotation,
+Enter -> Shoot,
+Up key -> north,
+Down key -> south,
+Left key -> west,
 Right key -> east
