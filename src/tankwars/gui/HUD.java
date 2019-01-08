@@ -12,7 +12,7 @@ public class HUD {
     private PlayerTank player1;
     private PlayerTank player2;
     private Controller c;
-    private int wave = 0; // will animate the beginning of wave
+    private int wave = 0;
     private int scoreP1 = 0;
     private int scoreP2 = 0;
     private BufferedImage heart = null;
